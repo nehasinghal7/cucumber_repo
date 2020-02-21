@@ -1,0 +1,17 @@
+hi this is my text file for sample
+practice unix command
+ll
+ls
+touch
+vi
+ps ef
+grep
+netstat
+pipe
+dir
+cd
+rm
+mkdir
+:wq
+ready for the show. Im excited for this
+arent you ready for it
