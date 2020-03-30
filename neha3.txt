@@ -1,0 +1,43 @@
+ hi im practising unix commands today
+ some useful commands are
+
+ ssh to enter into remote machine
+ ssh username@machineip
+
+ 2. netstat to check the connected sockets and listening sockets
+
+ 3. ps-ef to check how many processes are running
+
+ 4. kill to kill the process
+
+ 5. touch to create file
+
+ 6. grep to search and grep -i to search without casesensitive and -r for recursive
+
+ 7. tail to see last lines from a file speacially for log file
+
+ 8. cat to see content of file
+
+ 9. mkdir to make dir
+
+ 10. rm is to delete file
+
+ 11. rm -rf to delete dir
+
+ 12. rm -i to inquire b4 deleting
+
+ 13. cd to change directory
+
+ 14. cp to copy
+
+ 15 ftp and sftp to transfer file
+
+ 16. scp to transfer file between system
+
+ 17. pipe to transfer content from one to other
+
+ 18. vi is to edit fie
+
+ 19. head to get first 10 lines
+
+ 20 ll/ls to view all subdirectory n files in a directory

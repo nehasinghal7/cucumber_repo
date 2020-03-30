@@ -1,0 +1,19 @@
+ll
+ls
+touch
+netstat
+grep
+tail
+head
+cp
+mkdir
+vi
+pipe|
+ftp
+ssh
+rm 
+rm -r
+grep -i
+grep -r
+curl
+

@@ -15,3 +15,16 @@ mkdir
 :wq
 ready for the show. Im excited for this
 arent you ready for it
+rm -r to remove directory
+cp to copy
+scp copy between machines
+sftp transfer files
+cd .. to change to parent directory
+cd change directory
+tail to show last 10 lines of a particular file
+head to show first 10 lines
+ping
+wget to downloap file
+zip also 
+cat to see content of file
+:wq!
